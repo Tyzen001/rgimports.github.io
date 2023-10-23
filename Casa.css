@@ -45,6 +45,22 @@
   }
 }
 
+/* Estilos generales aquí */
+
+@media only screen and (max-width: 600px) {
+    /* Estilos específicos para pantallas pequeñas aquí */
+    body {
+        font-size: 14px;
+    }
+
+    /* Otros estilos para pantallas pequeñas */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .u-section-1 .u-btn-1,
 .u-section-1 .u-btn-1:before,
 .u-section-1 .u-btn-1 > .u-container-layout:before {
